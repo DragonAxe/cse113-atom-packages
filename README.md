@@ -36,6 +36,7 @@ Here are the packages I use:
 |minimap-bookmarks|atom-minimap|Displays Atom bookmarks in the minimap|
 |multi-cursor|joseramonc|Multiple cursors with {define your own keybinding}|
 |nuclide|facebook|A UI overhaul that add IDE-like features.|
+|symbols-tree-view|xndcn|A side bar that lists all the symbols (functions/variables) defined in the current file.|
 |trailing-semicolon|pimartin|Adds or removes a semicolon or comma at end of line with ctrl+;|
 |remote-sync|yongkangchen|scp/sftp/ftp sync between local machine and CS server. (May be currently broken)|
 
